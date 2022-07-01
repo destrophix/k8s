@@ -10,4 +10,4 @@ spec:
     nodePort: 31000
 
   selector:
-    type: backend
+    type: frontend
